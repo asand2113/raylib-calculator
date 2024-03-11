@@ -3,6 +3,8 @@
 A basic calculator that I created to learn the raylib library. This application is also a good starting project for people beginning to learn raylib to look over for educational purposes.
 
 Make is used to build the program.
+
+Raylib must be installed to build the program, which can be found at: www.raylib.com/
 ## Files
 ```
 - Makefile : Used by Make to build/remove the program
